@@ -9,4 +9,4 @@ const MyComponentFunc = ({name,children}) => {
     );
 };
 
-export default MyComponentFunc;
+export default MyComponentFunc; 

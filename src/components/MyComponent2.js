@@ -27,7 +27,7 @@ class MyComponent2 extends Component {
     handleDecrease = () => {
         const {myNumber} = this.state;
         this.setState({
-            myNumber:myNumber-1//this.state.myNumber -1
+            myNumber:myNumber-1//this.state.myNumber -1 
         });
     }
     handleChange = (event) => {
